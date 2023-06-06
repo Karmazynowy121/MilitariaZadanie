@@ -1,0 +1,15 @@
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\bin\Debug\net6.0\MilitariaZadanieRabbit.exe
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\bin\Debug\net6.0\MilitariaZadanieRabbit.deps.json
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\bin\Debug\net6.0\MilitariaZadanieRabbit.runtimeconfig.json
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\bin\Debug\net6.0\MilitariaZadanieRabbit.dll
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\bin\Debug\net6.0\MilitariaZadanieRabbit.pdb
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.csproj.AssemblyReference.cache
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.GeneratedMSBuildEditorConfig.editorconfig
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.AssemblyInfoInputs.cache
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.AssemblyInfo.cs
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.csproj.CoreCompileInputs.cache
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.dll
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\refint\MilitariaZadanieRabbit.dll
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.pdb
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\MilitariaZadanieRabbit.genruntimeconfig.cache
+D:\githubcurse\MilitariaZadanieRabbit\MilitariaZadanieRabbit\obj\Debug\net6.0\ref\MilitariaZadanieRabbit.dll
